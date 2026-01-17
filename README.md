@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Siva Ghanta 👋
 
 I am an AI/ML Engineer in training, focused on **On-Device Intelligence** and **System Optimization**. Currently bridging the gap between Android (HyperOS) and Desktop environments.
 

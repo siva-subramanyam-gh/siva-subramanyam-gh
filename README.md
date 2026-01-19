@@ -4,7 +4,7 @@
 
 I am an AI/ML Engineer in training, focused on **On-Device Intelligence** and **System Optimization**. Currently bridging the gap between Android (HyperOS) and Desktop environments.
 
-- 🔭 **I’m currently working on:** [Hyper-Connect](link-to-repo) - A Python-ADB bridge for efficient device control.
+- 🔭 **I’m currently working on:** [Hyper-Connect](https://github.com/siva-subramanyam-gh/Hyper-Connect) - A Python-ADB bridge for efficient device control.
 - 🌱 **I’m currently learning:** - Advanced Data Structures & Algorithms (Python)
   - Mandarin Chinese (Targeting HSK 5)
   - Android System Engineering

@@ -8,7 +8,7 @@ I am an AI/ML Engineer in training, focused on **On-Device Intelligence** and **
 - 🌱 **I’m currently learning:** - Advanced Data Structures & Algorithms (Python)
   - Mandarin Chinese (Targeting HSK 5)
   - Android System Engineering
-- ⚡ **Fun fact:** I am optimizing my own kernels to squeeze performance out of my Redmi Turbo 3.
+- ⚡ **Fun fact:** I am optimizing my own kernel parameters to squeeze performance out of my Redmi Turbo 3.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
